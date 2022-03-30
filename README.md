@@ -89,10 +89,10 @@ FROM popvsvac<br />
 
 ### SQL Query
 
-Select SUM(new_cases) as total_cases, SUM(cast(new_deaths as int)) as total_deaths, SUM(cast(new_deaths as int))/SUM(New_Cases)*100 as DeathPercentage<br />
-From `covidproject-345319.CovidVaccines.CovidDeaths`<br />
-where continent is not null <br />
-order by 1,2<br />
+SELECT SUM(new_cases) as total_cases, SUM(cast(new_deaths as int)) as total_deaths, SUM(cast(new_deaths as int))/SUM(New_Cases)*100 as DeathPercentage<br />
+FROM `covidproject-345319.CovidVaccines.CovidDeaths`<br />
+WHERE continent is not null <br />
+ORDER by 1,2<br />
 
 ### Visualization
 
@@ -125,10 +125,10 @@ ORDER BY TotalDeathCount desc <br />
 
 ### SQL Query
 
-Select Location, Population, MAX(total_cases) as HighestInfectionCount,  Max((total_cases/population))*100 as PercentPopulationInfected <br />
-From `covidproject-345319.CovidVaccines.CovidDeaths`<br />
-Group by Location, Population<br />
-order by PercentPopulationInfected desc  <br />
+SELECT Location, Population, MAX(total_cases) as HighestInfectionCount,  Max((total_cases/population))*100 as PercentPopulationInfected <br />
+FROM `covidproject-345319.CovidVaccines.CovidDeaths`<br />
+GROUP by Location, Population<br />
+ORDER by PercentPopulationInfected desc  <br />
 
 <br />
   
@@ -144,10 +144,10 @@ order by PercentPopulationInfected desc  <br />
   
 ### SQL Query
 
-Select Location, Population,date, MAX(total_cases) as HighestInfectionCount,  Max((total_cases/population))*100 as PercentPopulationInfected<br />
-From `covidproject-345319.CovidVaccines.CovidDeaths`<br />
-Group by Location, Population, date<br />
-order by PercentPopulationInfected desc<br />
+SELECT Location, Population,date, MAX(total_cases) as HighestInfectionCount,  Max((total_cases/population))*100 as PercentPopulationInfected<br />
+FROM `covidproject-345319.CovidVaccines.CovidDeaths`<br />
+GROUP by Location, Population, date<br />
+ORDER by PercentPopulationInfected desc<br />
  
 <br />
 
