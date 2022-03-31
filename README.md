@@ -96,7 +96,7 @@ ORDER by 1,2<br />
 
 ### Visualization
 
-<img align="center" alt="linkedin.com" style="max-width:100%;margin-bottom:25px;" width="960px" src="Global Numbers Vis.PNG" />  <br />
+[<img align="center" alt="linkedin.com" style="max-width:100%;margin-bottom:25px;" width="960px" src="Global Numbers Vis.PNG" />][tableau]  <br />
 
 
 ## Total Deaths Per Continent
@@ -112,7 +112,7 @@ ORDER BY TotalDeathCount desc <br />
 <br />
 ### Visualization
 
- <img align="center" alt="linkedin.com" style="max-width:100%; margin-bottom:25px" width="860px" src="Total Deaths Per Continent Vis.PNG" />  <br />
+[<img align="center" alt="linkedin.com" style="max-width:100%; margin-bottom:25px" width="860px" src="Total Deaths Per Continent Vis.PNG" />][tableau]  <br />
 
 
 
@@ -129,7 +129,7 @@ ORDER by PercentPopulationInfected desc  <br />
   
 ### Visualization
 
-<img align="center" alt="linkedin.com" style="max-width:100%; margin-bottom:25px" width="1080px" src="Percentage of Popuation Infected Per Country.PNG" /> <br />
+[<img align="center" alt="linkedin.com" style="max-width:100%; margin-bottom:25px" width="1080px" src="Percentage of Popuation Infected Per Country.PNG" />][tableau] <br />
 
 
     
@@ -147,7 +147,7 @@ ORDER by PercentPopulationInfected desc<br />
 
 ### Visualization
   
-<img align="center" alt="linkedin.com" style="max-width:100%; margin-bottom:25px" width="1080px" src="Percentage of Population Infected.PNG" />  <br />
+[<img align="center" alt="linkedin.com" style="max-width:100%; margin-bottom:25px" width="1080px" src="Percentage of Population Infected.PNG" />][tableau]  <br />
 
 
 
@@ -155,6 +155,7 @@ ORDER by PercentPopulationInfected desc<br />
 
 ### Allows Viewers Interactable Visualizations
 
-<img align="center" alt="linkedin.com" width="1240px" src="Dashboard.PNG" /> <br />
+[<img align="center" alt="linkedin.com" width="1240px" src="Dashboard.PNG" />][tableau] <br />
 
 
+[tableau]: https://public.tableau.com/views/COVIDDashboard_16483521614970/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
