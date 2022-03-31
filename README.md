@@ -153,6 +153,7 @@ ORDER by PercentPopulationInfected desc<br />
 
 ## Creating the Final Dashboard
 
+### Allows Viewers Interactable Visualizations
 
 <img align="center" alt="linkedin.com" width="1240px" src="Dashboard.PNG" /> <br />
 
