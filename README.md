@@ -151,7 +151,7 @@ ORDER by PercentPopulationInfected desc<br />
 
 ### Visualization
   
-<img align="left" alt="linkedin.com" style="max-width:100%; margin-bottom:25px" width="1080px" src="Percentage of Population Infected.PNG" />  <br />
+<img align="left" alt="linkedin.com" style="max-width:100%; margin-bottom:25px;margin-right:100px" width="1080px" src="Percentage of Population Infected.PNG" />  <br />
 
  <br />
 
