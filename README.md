@@ -96,7 +96,7 @@ ORDER by 1,2<br />
 
 ### Visualization
 
-<img align="left" alt="linkedin.com" width="960px" src="Global Numbers Vis.PNG" />  <br />
+<img align="left" alt="linkedin.com" style="max-width:100%;margin-bottom:25px;" width="960px" src="Global Numbers Vis.PNG" />  <br />
 <br />
 
 <br />
@@ -116,11 +116,9 @@ ORDER BY TotalDeathCount desc <br />
 <br />
 ### Visualization
 
- <img align="left" alt="linkedin.com" width="860px" src="Total Deaths Per Continent Vis.PNG" />  <br />
+ <img align="left" alt="linkedin.com" style="max-width:100%; margin-bottom:25px" width="860px" src="Total Deaths Per Continent Vis.PNG" />  <br />
 
-<br />
 
-#
 ## Percentage of Population Infected Per Country
 
 ### SQL Query
@@ -134,7 +132,7 @@ ORDER by PercentPopulationInfected desc  <br />
   
 ### Visualization
 
-<img align="left" alt="linkedin.com" width="1080px" src="Percentage of Popuation Infected Per Country.PNG" /> <br />
+<img align="left" alt="linkedin.com" style="max-width:100%; margin-bottom:25px" width="1080px" src="Percentage of Popuation Infected Per Country.PNG" /> <br />
 
 <br />
 
@@ -153,7 +151,7 @@ ORDER by PercentPopulationInfected desc<br />
 
 ### Visualization
   
-<img align="left" alt="linkedin.com" width="1080px" src="Percentage of Population Infected.PNG" />  <br />
+<img align="left" alt="linkedin.com" style="max-width:100%; margin-bottom:25px" width="1080px" src="Percentage of Population Infected.PNG" />  <br />
 
  <br />
 
