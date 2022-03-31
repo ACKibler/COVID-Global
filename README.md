@@ -97,11 +97,7 @@ ORDER by 1,2<br />
 ### Visualization
 
 <img align="center" alt="linkedin.com" style="max-width:100%;margin-bottom:25px;" width="960px" src="Global Numbers Vis.PNG" />  <br />
-<br />
 
-<br />
-
-<br />
 
 ## Total Deaths Per Continent
 
@@ -118,7 +114,7 @@ ORDER BY TotalDeathCount desc <br />
 
  <img align="center" alt="linkedin.com" style="max-width:100%; margin-bottom:25px" width="860px" src="Total Deaths Per Continent Vis.PNG" />  <br />
 
-<p>&nbsp;</p>
+
 
 ## Percentage of Population Infected Per Country
 
@@ -135,10 +131,9 @@ ORDER by PercentPopulationInfected desc  <br />
 
 <img align="center" alt="linkedin.com" style="max-width:100%; margin-bottom:25px" width="1080px" src="Percentage of Popuation Infected Per Country.PNG" /> <br />
 
-<p>&nbsp;</p>
 
     
-#  
+  
 ## Percentage of Population Infected
   
 ### SQL Query
@@ -154,9 +149,8 @@ ORDER by PercentPopulationInfected desc<br />
   
 <img align="center" alt="linkedin.com" style="max-width:100%; margin-bottom:25px" width="1080px" src="Percentage of Population Infected.PNG" />  <br />
 
-<p>&nbsp;</p>
 
-#
+
 ## Creating the Final Dashboard
 
 
